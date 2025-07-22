@@ -1,38 +1,38 @@
-# 🏨 Hotel Billing System
+#  Hotel Billing System
 
 A desktop-based hotel billing system built using **Python**, featuring a **Tkinter GUI**, **MySQL backend**, and file handling with **Excel** and **text files**. This project is designed to streamline billing, enhance customer interaction, and improve operational efficiency in a hotel environment.
 
 ---
 
-## 🚀 Features
+##  Features
 
-- 🔐 **User Authentication**
+-  **User Authentication**
   - Credential-based login system using **text file handling**
   - Secure access for admin and staff users
 
-- 📋 **Menu Management**
+-  **Menu Management**
   - Reads menu items and prices from **Excel files**
   - Dynamically updates the interface with available items
 
-- 💳 **Billing System**
+-  **Billing System**
   - GUI-based item selection and bill generation
   - Real-time bill updates and total calculations
 
-- 🎉 **Festival-Based Discounts**
+-  **Festival-Based Discounts**
   - Smart discount logic applied during festivals
   - Improves customer satisfaction with dynamic pricing
 
-- 🗣️ **Customer Feedback Collection**
+-  **Customer Feedback Collection**
   - Prompts customers for feedback after billing
   - Stores feedback for review and quality improvement
 
-- 🛢️ **MySQL Database Integration**
+-  **MySQL Database Integration**
   - Stores billing records and user sessions
   - Enables persistent data handling for admin reports
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 | Component      | Technology                           |
 |----------------|--------------------------------------|
@@ -43,5 +43,5 @@ A desktop-based hotel billing system built using **Python**, featuring a **Tkint
 
 ---
 
-## 📂 Project Structure
+## Project Description
 
