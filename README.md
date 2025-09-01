@@ -4,33 +4,32 @@ A desktop-based hotel billing system built using **Python**, featuring a **Tkint
 
 ---
 
-##  Features
+# ✨ Features
 
--  **User Authentication**
-  - Credential-based login system using **text file handling**
-  - Secure access for admin and staff users
+## 🔑 User Authentication
+- Credential-based login system using **text file handling**  
+- Secure access for **admin** and **staff** users  
 
--  **Menu Management**
-  - Reads menu items and prices from **Excel files**
-  - Dynamically updates the interface with available items
+## 📋 Menu Management
+- Reads menu items and prices from **Excel files**  
+- Dynamically updates the interface with available items  
 
--  **Billing System**
-  - GUI-based item selection and bill generation
-  - Real-time bill updates and total calculations
+## 🧾 Billing System
+- GUI-based item selection and bill generation  
+- Real-time bill updates and total calculations  
 
--  **Festival-Based Discounts**
-  - Smart discount logic applied during festivals
-  - Improves customer satisfaction with dynamic pricing
+## 🎉 Festival-Based Discounts
+- Smart discount logic applied during festivals  
+- Improves customer satisfaction with **dynamic pricing**  
 
--  **Customer Feedback Collection**
-  - Prompts customers for feedback after billing
-  - Stores feedback for review and quality improvement
+## 💬 Customer Feedback Collection
+- Prompts customers for feedback after billing  
+- Stores feedback for review and quality improvement  
 
--  **MySQL Database Integration**
-  - Stores billing records and user sessions
-  - Enables persistent data handling for admin reports
+## 🗄️ MySQL Database Integration
+- Stores billing records and user sessions  
+- Enables persistent data handling for admin reports  
 
----
 
 ##  Tech Stack
 
